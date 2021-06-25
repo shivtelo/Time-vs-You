@@ -1,4 +1,4 @@
-###Instructions:
+### Instructions:
 
 1. Download and Install Python 3.4.0 (64-bit) or above
 2. Install Pygame for Python 3.4 (64-bit) and above
@@ -11,7 +11,7 @@
 9. The movement of the square becomes faster with time see how long you can play the game.
 
 
-###Controls: 
+### Controls: 
 
 1. Numpad 1-9
 2. SPACE BAR
